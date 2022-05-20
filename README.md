@@ -45,4 +45,4 @@ npm run build
 
 ---
 
-Live version of the on [MERN Developer Profile App](https://glacial-beach-79161.herokuapp.com/)
+Live version of the app on [MERN Developer Profile App](https://glacial-beach-79161.herokuapp.com/)
